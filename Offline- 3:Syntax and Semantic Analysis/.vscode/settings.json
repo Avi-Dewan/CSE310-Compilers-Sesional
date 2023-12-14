@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "1905120_symbolinfo.h": "c",
+        "1905120_scopetable.h": "c",
+        "new": "cpp",
+        "ostream": "cpp",
+        "regex": "c",
+        "string": "c",
+        "typeinfo": "c"
+    }
+}
